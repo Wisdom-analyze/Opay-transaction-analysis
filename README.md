@@ -1,5 +1,6 @@
 #OPay Transaction & Fraud Analysis Dashboard
-Project Overview
+
+##Project Overview
 This project analyzes digital financial transaction data to uncover insights about revenue performance, customer behavior, geographic activity, and fraud patterns.
 The analysis was conducted using Excel, MySQL, and Power BI, demonstrating the full data analysis workflow from data cleaning to interactive dashboard visualization.
 Tools Used
